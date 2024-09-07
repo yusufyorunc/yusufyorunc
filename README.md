@@ -1,4 +1,4 @@
-## Merhaba 👋
-- 🔭 Şu anda üzerinde çalışıyorum ***GeminiAI API***
-- 🌱 Şu anda öğreniyorum *Python, Java, C, C++, PHP, JavaScript, CSS, HTML*
+
+- 🔭 Şu anda üzerinde  ***IDX*** çalışıyorum.
+- 🌱 Şu anda *Python, Dart, Flutter* öğreniyorum.
 
