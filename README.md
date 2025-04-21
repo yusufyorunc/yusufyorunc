@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Project IDX.<br>🌱 I’m currently learning Python, Dart, Flutter.<br>
+🔭 I’m currently working on Android Studio.<br>🌱 I’m currently learning Kotlin.<br>
 
 
 # 💻 Tech Stack:
