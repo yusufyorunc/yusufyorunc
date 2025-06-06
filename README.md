@@ -1,6 +1,8 @@
 # Hi there, I'm Yusuf 👋
 ### 💻 Software Developer | 🚀 Tech Enthusiast
 
+> *"Turning ideas into code, one commit at a time."*
+
 ## 🚀 Technologies & Tools
 
 ### Programming Languages
@@ -30,8 +32,17 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusufyorunc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyorunc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufyorunc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/yusufyorunc)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyorunc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/yusufyorunc)
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+[![Yusuf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yusufyorunc&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/yusufyorunc)
 
 </div>
 
@@ -43,9 +54,21 @@
 
 </div>
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
-[![Yusuf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yusufyorunc&theme=tokyo-night&hide_border=true)](https://github.com/yusufyorunc)
+<div align="center">
+  
+[![Yusuf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yusufyorunc&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/yusufyorunc)
+
+</div>
+
+## 📊 Coding Activity
+
+<div align="center">
+  
+[![Yusuf's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yusufyorunc&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/yusufyorunc)
+
+</div>
 
 ## 🤝 Connect with me
 
