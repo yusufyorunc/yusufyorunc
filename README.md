@@ -113,7 +113,7 @@ developer = {
 ## 🤝 Connect with me
 
 <br>
-[![X (Twitter)](https://img.shields.io/badge/-@yusufyorunc-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yusufyorunc)
+![X (Twitter)](https://img.shields.io/badge/-@yusufyorunc-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yusufyorunc)
 </div>
 
 <br>
@@ -137,10 +137,14 @@ const contact = {
 <div align="center">
   
 ⚡ **"Code is like humor. When you have to explain it, it's bad."** ⚡
-[![Profile Views](https://komarev.com/ghpvc/?username=yusufyorunc&label=Profile%20views&color=58a6ff&style=for-the-badge)](https://github.com/yusufyorunc)
+
 
 <br>
 
 💻 **Thanks for visiting my profile!** 🚀
 
+</div>
+
+<div>
+[![Profile Views](https://komarev.com/ghpvc/?username=yusufyorunc&label=Profile%20views&color=58a6ff&style=for-the-badge)](https://github.com/yusufyorunc)
 </div>
