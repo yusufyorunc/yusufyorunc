@@ -19,7 +19,7 @@ developer = {
 
 <br>
 
-<div align="center">
+<div>
 
 ## 🚀 Technologies & Tools
 
@@ -27,7 +27,7 @@ developer = {
 
 <br>
 
-<div align="center">
+<div>
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
@@ -41,7 +41,7 @@ developer = {
 
 <br>
 
-<div align="center">
+<div>
 
 ### Frameworks & Libraries
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -52,7 +52,7 @@ developer = {
 
 <br>
 
-<div align="center">
+<div>
 
 ### Tools & Platforms
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -68,7 +68,7 @@ developer = {
 
 <br>
 
-<div align="center">
+<div>
 
 ## 📊 GitHub Stats
 
@@ -84,7 +84,7 @@ developer = {
 
 <br>
 
-<div align="center">
+<div>
 
 ## 🔥 GitHub Streak
 
@@ -96,7 +96,7 @@ developer = {
 
 <br>
 
-<div align="center">
+<div>
 
 ## 📈 Contribution Activity
 
@@ -108,20 +108,17 @@ developer = {
 
 <br>
 
-<div align="center">
+<div>
 
 ## 🤝 Connect with me
 
 <br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=yusufyorunc&label=Profile%20views&color=58a6ff&style=for-the-badge)](https://github.com/yusufyorunc)
 [![X (Twitter)](https://img.shields.io/badge/-@yusufyorunc-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yusufyorunc)
-
 </div>
 
 <br>
 
-<div align="center">
+<div>
 
 ```javascript
 const contact = {
@@ -140,6 +137,7 @@ const contact = {
 <div align="center">
   
 ⚡ **"Code is like humor. When you have to explain it, it's bad."** ⚡
+[![Profile Views](https://komarev.com/ghpvc/?username=yusufyorunc&label=Profile%20views&color=58a6ff&style=for-the-badge)](https://github.com/yusufyorunc)
 
 <br>
 
