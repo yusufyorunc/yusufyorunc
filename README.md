@@ -84,14 +84,6 @@ developer = {
 
 <br>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Yusuf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yusufyorunc&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/yusufyorunc)
-
-</div>
-
 <div align="center">
 
 ## 🔥 GitHub Streak
