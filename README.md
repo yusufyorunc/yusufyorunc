@@ -1,34 +1,58 @@
-Yusuf Yorunc
+# Hi there, I'm Yusuf 👋
 
-Skills
-Programming Languages
+[![Profile Views](https://komarev.com/ghpvc/?username=yusufyorunc&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/yusufyorunc)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yusufyorunc?style=social)](https://twitter.com/yusufyorunc)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+## 🚀 Technologies & Tools
+
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-
-Tools
-
+### Tools & Platforms
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+## 📊 GitHub Stats
 
+<div align="center">
+  
+[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufyorunc&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/yusufyorunc)
 
-Social Media
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyorunc&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/yusufyorunc)
 
+</div>
 
-GitHub Stats
+## 🔥 GitHub Streak
 
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yusufyorunc&theme=tokyonight&hide_border=true)](https://github.com/yusufyorunc)
 
-Languages Used
+</div>
 
+## 📈 Activity Graph
 
-Visitors
+[![Yusuf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yusufyorunc&theme=tokyo-night&hide_border=true)](https://github.com/yusufyorunc)
 
+## 🤝 Connect with me
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yusufyorunc)
+
+---
+
+<div align="center">
+  
+💻 **Happy Coding!** 🚀
+
+</div>
