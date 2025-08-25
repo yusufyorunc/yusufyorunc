@@ -60,14 +60,6 @@ developer = {
 
 <br>
 
-## 🔥 GitHub Streak
-
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yusufyorunc&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=c9d1d9)](https://github.com/yusufyorunc)
-
-<br>
-
 ## 📈 Contribution Activity
 
 <br>
