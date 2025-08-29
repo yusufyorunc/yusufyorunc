@@ -75,34 +75,7 @@ developer = {
 
 [![Yusuf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yusufyorunc&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Journey&bg_color=0d1117&color=58a6ff&line=79c0ff&point=c9d1d9)](https://github.com/yusufyorunc)
 
-<br>
 
-<div align="center">
-
-## 🤝 Let's Connect & Collaborate
-
-<br>
-
-<p align="center">
-<a href="https://twitter.com/yusufyorunc" target="_blank">
-<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Twitter/twitter1.svg">
-</a>
-<a href="https://github.com/yusufyorunc" target="_blank">
-<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Github/github1.svg">
-</a>
-</p>
-
-<br>
-
-```javascript
-const contact = {
-    twitter: "@yusufyorunc",
-    status: "Always open to collaborate! 🚀",
-    motto: "Code with passion, create with purpose"
-}
-```
-
-<br>
 
 ## 📈 Profile Analytics
 
