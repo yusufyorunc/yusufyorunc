@@ -1,4 +1,4 @@
-# Hi there, I'm Yusuf 👋
+1# Hi there, I'm Yusuf 👋
 ### 💻 Software Developer | 🚀 Tech Enthusiast
 
 > *"Turning ideas into code, one commit at a time."*
@@ -40,9 +40,9 @@ developer = {
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/AndroidStudio/androidstudio1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/VisualStudio/visualstudio1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/VisualStudioCode/visualstudiocode1.svg">
-<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/IntelliJIDEA/intellijidea1.svg">
-<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Anaconda/anaconda1.svg">
-<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/GoogleCloud/googlecloud1.svg">
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Firebase/firebase1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Git/git1.svg">
 
