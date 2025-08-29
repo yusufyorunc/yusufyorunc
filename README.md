@@ -84,8 +84,12 @@ developer = {
 <br>
 
 <p align="center">
+<a href="https://twitter.com/yusufyorunc" target="_blank">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Twitter/twitter1.svg">
+</a>
+<a href="https://github.com/yusufyorunc" target="_blank">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Github/github1.svg">
+</a>
 </p>
 
 <br>
