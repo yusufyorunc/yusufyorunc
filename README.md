@@ -41,6 +41,7 @@ developer = {
 <br>
 
 ### Tools & Platforms
+<p align="left">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/AndroidStudio/androidstudio1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/VisualStudio/visualstudio1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/VisualStudioCode/visualstudiocode1.svg">
@@ -49,6 +50,7 @@ developer = {
 <img src="https://img.shields.io/badge/Google_Cloud-101014?style=flat-square&logo=google-cloud&logoColor=white&labelColor=101014&color=4285F4">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Firebase/firebase1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Git/git1.svg">
+</p>
 
 <br>
 
@@ -78,8 +80,10 @@ developer = {
 
 <br>
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Twitter/twitter1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Github/github1.svg">
+</p>
 
 <br>
 
