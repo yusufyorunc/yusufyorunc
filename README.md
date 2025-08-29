@@ -20,31 +20,31 @@ developer = {
 <br>
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Python/python1.svg">
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Javascript/javascript1.svg">
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Kotlin/kotlin1.svg">
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Dart/dart1.svg">
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/HTML/html1.svg">
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/CSS/css1.svg">
 
 <br>
 
 ### Frameworks & Libraries
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Bootstrap/bootstrap1.svg">
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/jQuery/jquery1.svg">
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Flutter/flutter1.svg">
 
 <br>
 
 ### Tools & Platforms
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/AndroidStudio/androidstudio1.svg">
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/VisualStudio/visualstudio1.svg">
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/VisualStudioCode/visualstudiocode1.svg">
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/IntelliJIDEA/intellijidea1.svg">
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Anaconda/anaconda1.svg">
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/GoogleCloud/googlecloud1.svg">
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Firebase/firebase1.svg">
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Git/git1.svg">
 
 <br>
 
@@ -74,8 +74,8 @@ developer = {
 
 <br>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yusufyorunc?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2&labelColor=1DA1F2)](https://twitter.com/yusufyorunc)
-[![GitHub followers](https://img.shields.io/github/followers/yusufyorunc?style=for-the-badge&logo=github&logoColor=white&color=58a6ff&labelColor=24292e)](https://github.com/yusufyorunc)
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Twitter/twitter1.svg">
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Github/github1.svg">
 
 <br>
 
