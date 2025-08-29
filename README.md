@@ -40,9 +40,9 @@ developer = {
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/AndroidStudio/androidstudio1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/VisualStudio/visualstudio1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/VisualStudioCode/visualstudiocode1.svg">
-<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/JetBrainsIDEs/jetbrainsides1.svg">
-<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Python/python2.svg">
-<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/GoogleCloud/googlecloud1.svg">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Firebase/firebase1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Git/git1.svg">
 
