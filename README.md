@@ -20,19 +20,23 @@ developer = {
 <br>
 
 ### Programming Languages
+<p align="left">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Python/python1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Javascript/javascript1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Kotlin/kotlin1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Dart/dart1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/HTML/html1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/CSS/css1.svg">
+</p>
 
 <br>
 
 ### Frameworks & Libraries
+<p align="left">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Bootstrap/bootstrap1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/jQuery/jquery1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Flutter/flutter1.svg">
+</p>
 
 <br>
 
