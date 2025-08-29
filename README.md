@@ -42,11 +42,14 @@ developer = {
 
 ### Tools & Platforms
 <p align="left">
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/IDEA/idea1.svg">
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/PyCharm/pycharm1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/AndroidStudio/androidstudio1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/VisualStudio/visualstudio1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/VisualStudioCode/visualstudiocode1.svg">
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-101014?style=flat-square&logo=intellij-idea&logoColor=white&labelColor=101014&color=4285F4">
 <img src="https://img.shields.io/badge/Anaconda-101014?style=flat-square&logo=anaconda&logoColor=white&labelColor=101014&color=44A833">
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Linux/linux1.svg">
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Android/android1.svg">
 <img src="https://img.shields.io/badge/Google_Cloud-101014?style=flat-square&logo=google-cloud&logoColor=white&labelColor=101014&color=4285F4">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Firebase/firebase1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Git/git1.svg">
