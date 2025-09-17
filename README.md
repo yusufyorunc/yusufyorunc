@@ -27,6 +27,8 @@ developer = {
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/Dart/dart1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/HTML/html1.svg">
 <img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/CSS/css1.svg">
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/C++/c++3.svg">
+<img src="https://raw.githubusercontent.com/ziadOUA/m3-Markdown-Badges/master/badges/C/c1.svg">
 </p>
 
 <br>
