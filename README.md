@@ -84,9 +84,7 @@ developer = {
 [![Stars](https://img.shields.io/github/stars/yusufyorunc?style=for-the-badge&logo=github&logoColor=white&color=ffc83d&labelColor=24292e)](https://github.com/yusufyorunc)
 
 <br>
-
 ---
-
 <br>
 
 ⚡ **"Code is like humor. When you have to explain it, it's bad."** ⚡
