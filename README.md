@@ -56,26 +56,6 @@ developer = {
 
 <br>
 
-## 📊 GitHub Stats
-
-<br>
-
-[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufyorunc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff)](https://github.com/yusufyorunc)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyorunc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/yusufyorunc)
-
-<br>
-
-## 📈 Contribution Activity
-
-<br>
-
-[![Yusuf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yusufyorunc&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Journey&bg_color=0d1117&color=58a6ff&line=79c0ff&point=c9d1d9)](https://github.com/yusufyorunc)
-
-
-
 ## 📈 Profile Analytics
 
 <br>
