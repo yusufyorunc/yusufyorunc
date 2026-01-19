@@ -8,9 +8,8 @@ developer = {
     "name": "Yusuf Yorunç",
     "location": "Turkey",
     "role": "Software Developer",
-    "languages": ["Python", "JavaScript", "Kotlin", "Dart", "C++"],
-    "interests": ["Mobile Development", "Web Development", "Cloud Computing"]
-}
+    "languages": ["Python", "C++", "JavaScript", "Kotlin", "Dart"]
+    }
 ```
 
 <br>
