@@ -1,5 +1,4 @@
-# Hi there, I'm Yusuf 👋
-### 💻 Software Developer | 🚀 Tech Enthusiast
+## 💻 Software Developer | 🚀 Tech Enthusiast
 
 > *"Turning ideas into code, one commit at a time."*
 
